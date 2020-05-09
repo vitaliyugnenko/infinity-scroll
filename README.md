@@ -1,4 +1,4 @@
-##DEMO
+## DEMO
 https://vitaliyugnenko.github.io/infinity-scroll/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
